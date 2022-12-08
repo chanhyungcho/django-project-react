@@ -31,7 +31,7 @@ const Home = () => {
             </td>
         </tr>
         <tr>
-            <img src={panda}/>
+            <img src={panda} alt="Avatar" class="avatar"  />
         </tr>
         </tbody>
     </table>
